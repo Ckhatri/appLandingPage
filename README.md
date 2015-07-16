@@ -1,0 +1,1 @@
+Template for an App's Landing Page
