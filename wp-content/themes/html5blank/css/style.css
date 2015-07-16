@@ -1,0 +1,8 @@
+body header {
+  background-color: #ecebe4;
+  height: 75px;
+}
+body header .topBarHolder {
+  margin: 0 auto;
+  width: 960px;
+}
