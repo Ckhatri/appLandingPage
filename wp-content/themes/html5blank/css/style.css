@@ -93,3 +93,39 @@ body #welcome .infobox {
 body #welcome .infobox i {
   color: #edafb8;
 }
+body #available {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 500px;
+  background: url('../img/blurblue.jpg') no-repeat center;
+  background-size: cover;
+  --webkit-backrgound-size: cover;
+  position: relative;
+}
+body #available .topWelcome {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  height: 40%;
+}
+body #available h1 {
+  color: #ecebe4;
+  font-size: 4em;
+}
+body #available h1 span {
+  color: #b0c4b1;
+}
+body #available p {
+  font-size: 1.5em;
+}
+body #available a {
+  color: inherit;
+}
+body #available i:hover {
+  color: #b0c4b1;
+  cursor: pointer;
+}
+body #available .download {
+  margin-top: 100px;
+}

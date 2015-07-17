@@ -129,6 +129,34 @@
 	</div>
 </section>
 
+<section id = "available">
+	<div class="container">
+		<div class = "row">
+			<div class = "col-md-12 text-center topWelcome">
+				<h1>
+					Our <span>"App"</span> is available on!
+				</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+		</div>
+		<div class = "row">
+			<div class = "col-md-2 text-center"></div>
+			<div class = "col-md-1 text-center"></div>
+			<div class = "col-md-2 text-center">
+				<a href="#"><i class="fa fa-apple fa-5x"></i></a>
+			</div>
+			<div class = "col-md-2 text-center">
+				<a href="#"><i class="fa fa-android fa-5x"></i></a>
+			</div>
+			<div class = "col-md-2 text-center">
+				<a href="#"><i class="fa fa-windows fa-5x"></i></a>
+			</div>
+			<div class = "col-md-1 text-center"></div>
+			<div class = "col-md-2 text-center"></div>
+		</div>
+</section>
 <!-- 	<main role="main">
 		<!-- section -->
 		<section>
@@ -142,6 +170,4 @@
 		<!-- /section -->
 	</main>
 
-<?php //get_sidebar(); ?>
-
-<?php //get_footer(); ?>
+<?php get_footer(); ?>

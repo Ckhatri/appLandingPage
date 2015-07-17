@@ -6,7 +6,7 @@
 @instagram: #3f729b;
 
 body {
-	header {
+	header  {
 		background-color: @sand;
 		height: 75px;
 		max-width: 100%;
@@ -115,5 +115,46 @@ body {
 				color: @main;
 			}
 		}
+	}
+
+	#available {
+		height: 100%;
+		width: auto;
+		max-width: 100%;
+		overflow: hidden;
+		max-height: 500px;
+		background: url('../img/blurblue.jpg') no-repeat center;
+		background-size: cover;
+		--webkit-backrgound-size: cover;
+		position: relative;
+
+		.topWelcome {
+			margin-top: 40px;
+			margin-bottom: 40px;
+			height: 40%;
+		}
+
+		h1 {
+			color: @sand;
+			span {
+				color: @secondary;
+			}
+			font-size: 4em;
+		}
+		p {
+			font-size: 1.5em;
+		}
+		a {
+			color: inherit;
+		}
+		i:hover {
+			color: @secondary;
+			cursor: pointer;
+		}
+
+		.download {
+			margin-top: 100px;
+		}
+
 	}
 }
