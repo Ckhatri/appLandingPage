@@ -42,3 +42,23 @@ body header .header #facebook {
 body header .header #instagram {
   color: #3f729b;
 }
+body #mastHead {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  min-height: 500px;
+  max-height: 700px;
+  background: url('../img/blurmountain.png') no-repeat center center fixed;
+  background-size: cover;
+  --webkit-backrgound-size: cover;
+  position: relative;
+}
+body #mastHead img {
+  width: 100%;
+}
+body #mastHead #mast {
+  color: white;
+}
+body #mastHead #mast p {
+  vertical-align: middle;
+}

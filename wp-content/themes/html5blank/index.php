@@ -2,9 +2,6 @@
 <header>
 	<div class = "container-fluid">
 		<div class="row">
-<!-- 		<div class="topBarHolder">
-				Hello
-			</div> -->
 			<div class = "col-xs-5 col-s-4 col-md-4 text-right header logo">
 				<img src="https://placehold.it/50"/>
 				<p><b>Company</b> Apps<br/> <font color="#999999">Description Here</font></p>
@@ -26,11 +23,26 @@
 				  <i class="fa fa-circle-o fa-stack-2x"></i>
 				  <i class="fa fa-instagram fa-stack-1x"></i>
 				</span>
-
 			</div>
 		</div>
 	</div>
 </header>
+
+<section id="mastHead">
+	<section id = "mast">
+		<div class = "container-fluid">
+			<div class="row">
+				<div class = "col-md-6 text-right">
+					<p>Hello</p>
+				</div>
+				<div class = "col-md-6">
+					Hello
+				</div>
+			</div>
+		</div>
+	</section>
+</section>
+
 <!-- 	<main role="main">
 		<!-- section -->
 		<section>
