@@ -8,7 +8,7 @@ body header .topBarHolder {
   height: 75px;
   color: white;
 }
-body header .logo {
+body header .header {
   margin: 0 auto;
   height: 75px;
   line-height: 25px;
@@ -16,17 +16,29 @@ body header .logo {
   padding-top: 12px;
   padding-bottom: 12px;
 }
-body header .logo img {
+body header .header img {
   border-radius: 25px;
   border-style: solid;
   border-color: black;
   border-width: 1px;
 }
-body header .logo p {
+body header .header p {
   float: right;
   text-align: left;
   font-size: 1.1em;
 }
-body header .logo b {
+body header .header b {
   color: #b0c4b1;
+}
+body header .header .social {
+  padding-top: 5px;
+}
+body header .header #twitter {
+  color: #55acee;
+}
+body header .header #facebook {
+  color: #3b5998;
+}
+body header .header #instagram {
+  color: #3f729b;
 }

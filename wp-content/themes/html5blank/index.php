@@ -5,14 +5,29 @@
 <!-- 		<div class="topBarHolder">
 				Hello
 			</div> -->
-			<div class = "col-md-4 text-right logo">
+			<div class = "col-md-4 text-right header logo">
 				<img src="https://placehold.it/50"/>
 				<p><b>Company</b> Apps<br/> <font color="#999999">Description Here</font></p>
 			</div>
 			<!-- Spacer! -->
 			<div class = "col-md-4"></div> 
 			<!-- Spacer! -->
-			<div class = "col-md-4 socialIcons">Hello</div>
+			<div class = "col-md-4 header">
+				<span class="fa-stack fa-lg social" id = "twitter">
+				  <i class="fa fa-circle-o fa-stack-2x"></i>
+				  <i class="fa fa-twitter fa-stack-1x"></i>
+				</span>
+				<span class="fa-stack fa-lg social" id = "facebook">
+				  <i class="fa fa-circle-o fa-stack-2x"></i>
+				  <i class="fa fa-facebook fa-stack-1x"></i>
+				</span>
+
+				<span class="fa-stack fa-lg social" id = "instagram">
+				  <i class="fa fa-circle-o fa-stack-2x"></i>
+				  <i class="fa fa-instagram fa-stack-1x"></i>
+				</span>
+
+			</div>
 		</div>
 	</div>
 </header>
