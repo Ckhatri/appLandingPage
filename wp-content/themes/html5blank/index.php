@@ -2,9 +2,17 @@
 <header>
 	<div class = "container-fluid">
 		<div class="row">
-			<div class="topBarHolder">
+<!-- 		<div class="topBarHolder">
 				Hello
+			</div> -->
+			<div class = "col-md-4 text-right logo">
+				<img src="https://placehold.it/50"/>
+				<p><b>Company</b> Apps<br/> <font color="#999999">Description Here</font></p>
 			</div>
+			<!-- Spacer! -->
+			<div class = "col-md-4"></div> 
+			<!-- Spacer! -->
+			<div class = "col-md-4 socialIcons">Hello</div>
 		</div>
 	</div>
 </header>

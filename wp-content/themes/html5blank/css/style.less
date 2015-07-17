@@ -1,4 +1,6 @@
 @sand: #ECEBE4;
+@main: #EDAFB8;
+@secondary: #B0C4B1;
 
 body {
 	header {
@@ -10,6 +12,31 @@ body {
 			width: 960px;
 			height: 75px;
 			color: white;
+		}
+
+		.logo {
+			margin: 0 auto;
+			height: 75px;
+			line-height: 25px;
+			display: inline-block;
+			padding-top: 12px;
+			padding-bottom: 12px;
+
+			img {
+				border-radius: 25px;
+				border-style: solid;
+				border-color: black;
+				border-width: 1px;
+			}
+			p {
+				float: right;
+				text-align: left;
+				font-size: 1.1em;
+			}
+
+			b {
+				color: @secondary;
+			}
 		}
 	}
 }

@@ -5,4 +5,28 @@ body header {
 body header .topBarHolder {
   margin: 0 auto;
   width: 960px;
+  height: 75px;
+  color: white;
+}
+body header .logo {
+  margin: 0 auto;
+  height: 75px;
+  line-height: 25px;
+  display: inline-block;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+body header .logo img {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+body header .logo p {
+  float: right;
+  text-align: left;
+  font-size: 1.1em;
+}
+body header .logo b {
+  color: #b0c4b1;
 }
