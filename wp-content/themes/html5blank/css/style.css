@@ -25,6 +25,9 @@ body header .header p {
 body header .header b {
   color: #b0c4b1;
 }
+body header .header a {
+  color: inherit;
+}
 body header .header .social {
   padding-top: 5px;
 }
