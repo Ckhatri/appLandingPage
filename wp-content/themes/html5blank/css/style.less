@@ -63,7 +63,6 @@ body {
 		background-size: cover;
 		--webkit-backrgound-size: cover;
 		position: relative;
-		}
 
 		.mast {
 			position: relative;
@@ -92,4 +91,29 @@ body {
 				width: inherit;
 			}
 		}
+	}
+
+	#welcome {
+		background-color: @sand;
+		.topWelcome {
+			margin-top: 40px;
+			margin-bottom: 40px;
+		}
+		h1 {
+			color: black;
+			span {
+				color: @secondary;
+			}
+		}
+
+		.infobox {
+			background-color: white;
+			height: 40%;
+			border: 10px solid @sand;
+
+			i {
+				color: @main;
+			}
+		}
+	}
 }

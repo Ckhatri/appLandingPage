@@ -48,27 +48,48 @@ body #mastHead {
   --webkit-backrgound-size: cover;
   position: relative;
 }
-body .mast {
+body #mastHead .mast {
   position: relative;
   color: white;
   height: 100%;
 }
-body .mast .row {
+body #mastHead .mast .row {
   height: 100%;
 }
-body .mast .vertical-align {
+body #mastHead .mast .vertical-align {
   display: flex;
   align-items: center;
   flex-direction: row;
 }
-body .mast .description {
+body #mastHead .mast .description {
   color: #ecebe4;
   padding-right: 50px;
 }
-body .mast .description span {
+body #mastHead .mast .description span {
   color: #b0c4b1;
 }
-body .mast img {
+body #mastHead .mast img {
   height: inherit;
   width: inherit;
+}
+body #welcome {
+  background-color: #ecebe4;
+}
+body #welcome .topWelcome {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body #welcome h1 {
+  color: black;
+}
+body #welcome h1 span {
+  color: #b0c4b1;
+}
+body #welcome .infobox {
+  background-color: white;
+  height: 40%;
+  border: 10px solid #ecebe4;
+}
+body #welcome .infobox i {
+  color: #edafb8;
 }

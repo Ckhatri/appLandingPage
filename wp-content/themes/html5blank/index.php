@@ -50,6 +50,85 @@
 	</div>
 </section>
 
+<section id="welcome">
+	<div class="container">
+		<div class = "row">
+			<div class = "col-md-12 text-center topWelcome">
+				<h1>
+					Welcome to the <span>"App"</span> Website
+				</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+		</div>
+		<div class = "row text-center">
+			<div class = "col-md-4 infoBox">
+				<i class="fa fa-coffee fa-5x"></i>
+				<h1>App Use</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+			<div class = "col-md-4 infoBox">
+				<i class="fa fa-coffee fa-5x"></i>
+				<h1>App Use</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+			<div class = "col-md-4 infoBox">
+				<i class="fa fa-coffee fa-5x"></i>
+				<h1>App Use</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+		</div>
+		<div class = "row text-center">
+			<div class = "col-md-4 infoBox">
+				<i class="fa fa-coffee fa-5x"></i>
+				<h1>App Use</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+			<div class = "col-md-4 infoBox">
+				<i class="fa fa-coffee fa-5x"></i>
+				<h1>App Use</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+			<div class = "col-md-4 infoBox">
+				<i class="fa fa-coffee fa-5x"></i>
+				<h1>App Use</h1>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+				<p>
+					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- 	<main role="main">
 		<!-- section -->
 		<section>
