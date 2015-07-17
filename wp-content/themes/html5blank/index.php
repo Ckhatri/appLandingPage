@@ -28,19 +28,26 @@
 	</div>
 </header>
 
-<section id="mastHead">
-	<section id = "mast">
-		<div class = "container-fluid">
-			<div class="row">
-				<div class = "col-md-6 text-right">
-					<p>Hello</p>
+<section id="mastHead"> 
+	<div class="mast">
+		<div class="container">
+			<div class="row vertical-align">
+				<div class = "col-md-6 text-right description">
+					<h1>
+						Hi, we are <span>"AppName"</span>
+					</h1>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+					</p>
+					<button class="btn btn-lg">Learn more</button>
+					<button class="btn btn-lg">Wassap</button>
 				</div>
-				<div class = "col-md-6">
-					Hello
+				<div class = "col-md-6 text-left pic">
+					<img src="http://modmyi.com/images/anthony/nolocknotificationsbg.png"/>
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
 </section>
 
 <!-- 	<main role="main">

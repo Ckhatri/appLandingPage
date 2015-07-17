@@ -1,16 +1,11 @@
 body header {
   background-color: #ecebe4;
   height: 75px;
-}
-body header .topBarHolder {
-  margin: 0 auto;
-  width: 960px;
-  height: 75px;
-  color: white;
+  max-width: 100%;
+  max-height: 100%;
 }
 body header .header {
   margin: 0 auto;
-  height: 75px;
   line-height: 25px;
   display: inline-block;
   padding-top: 12px;
@@ -44,21 +39,36 @@ body header .header #instagram {
 }
 body #mastHead {
   height: 100%;
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   overflow: hidden;
-  min-height: 500px;
-  max-height: 700px;
-  background: url('../img/blurmountain.png') no-repeat center center fixed;
+  min-height: 800px;
+  background: url('../img/blurmountain.png') no-repeat center;
   background-size: cover;
   --webkit-backrgound-size: cover;
   position: relative;
 }
-body #mastHead img {
-  width: 100%;
-}
-body #mastHead #mast {
+body .mast {
+  position: relative;
   color: white;
+  height: 100%;
 }
-body #mastHead #mast p {
-  vertical-align: middle;
+body .mast .row {
+  height: 100%;
+}
+body .mast .vertical-align {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+body .mast .description {
+  color: #ecebe4;
+  padding-right: 50px;
+}
+body .mast .description span {
+  color: #b0c4b1;
+}
+body .mast img {
+  height: inherit;
+  width: inherit;
 }
