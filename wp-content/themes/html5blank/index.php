@@ -5,14 +5,14 @@
 <!-- 		<div class="topBarHolder">
 				Hello
 			</div> -->
-			<div class = "col-md-4 text-right header logo">
+			<div class = "col-xs-5 col-s-4 col-md-4 text-right header logo">
 				<img src="https://placehold.it/50"/>
 				<p><b>Company</b> Apps<br/> <font color="#999999">Description Here</font></p>
 			</div>
 			<!-- Spacer! -->
-			<div class = "col-md-4"></div> 
+			<div class = "col-xs-2 col-s-4 col-md-4"></div> 
 			<!-- Spacer! -->
-			<div class = "col-md-4 header">
+			<div class = "col-xs-5 col-s-4 col-md-4 header">
 				<span class="fa-stack fa-lg social" id = "twitter">
 				  <i class="fa fa-circle-o fa-stack-2x"></i>
 				  <i class="fa fa-twitter fa-stack-1x"></i>
