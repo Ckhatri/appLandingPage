@@ -16,6 +16,7 @@ body header .header img {
   border-style: solid;
   border-color: black;
   border-width: 1px;
+  margin-right: 10px;
 }
 body header .header p {
   float: right;
