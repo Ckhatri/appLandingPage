@@ -136,3 +136,46 @@ body #available i:hover {
 body #available .download {
   margin-top: 100px;
 }
+body footer {
+  background-color: #ecebe4;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+body footer .header {
+  margin: 0 auto;
+  line-height: 25px;
+  display: inline-block;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+body footer .header img {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-right: 10px;
+}
+body footer .header p {
+  float: right;
+  text-align: left;
+  font-size: 1.1em;
+}
+body footer .header b {
+  color: #b0c4b1;
+}
+body footer .header a {
+  color: inherit;
+}
+body footer .header .social {
+  padding-top: 5px;
+}
+body footer .header #twitter {
+  color: #55acee;
+}
+body footer .header #facebook {
+  color: #3b5998;
+}
+body footer .header #instagram {
+  color: #3f729b;
+}

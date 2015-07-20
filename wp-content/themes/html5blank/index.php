@@ -170,4 +170,33 @@
 		<!-- /section -->
 	</main>
 
+<footer>
+	<div class = "container-fluid">
+		<div class="row">
+			<div class = "col-xs-5 col-s-4 col-md-4 text-right header logo">
+				<img src="https://placehold.it/50"/>
+				<p><b>Company</b> Apps<br/> <font color="#999999">Description Here</font></p>
+			</div>
+			<!-- Spacer! -->
+			<div class = "col-xs-2 col-s-4 col-md-4 text-center header">
+				<h4>Copyrights © 2015 'CK'. All Rights Reserved.</h4>
+			</div> 
+			<div class = "col-xs-5 col-s-4 col-md-4 header">
+				<a href="#"><span class="fa-stack fa-lg social" id = "twitter">
+				  <i class="fa fa-circle-o fa-stack-2x"></i>
+				  <i class="fa fa-twitter fa-stack-1x"></i>
+				</span></a>
+				<a href="#"><span class="fa-stack fa-lg social" id = "facebook">
+				  <i class="fa fa-circle-o fa-stack-2x"></i>
+				  <i class="fa fa-facebook fa-stack-1x"></i>
+				</span></a>
+
+				<a href="#"><span class="fa-stack fa-lg social" id = "instagram">
+				  <i class="fa fa-circle-o fa-stack-2x"></i>
+				  <i class="fa fa-instagram fa-stack-1x"></i>
+				</span></a>
+			</div>
+		</div>
+	</div>
+</footer>
 <?php get_footer(); ?>
