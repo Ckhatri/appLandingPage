@@ -75,6 +75,10 @@ body #mastHead .mast img {
   height: inherit;
   width: inherit;
 }
+body #mastHead .mast button {
+  background-color: #b0c4b1;
+  color: black;
+}
 body #welcome {
   background-color: #ecebe4;
 }

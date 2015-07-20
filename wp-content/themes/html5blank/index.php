@@ -40,7 +40,7 @@
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					</p>
 					<button class="btn btn-lg">Learn more</button>
-					<button class="btn btn-lg">Wassap</button>
+					<button class="btn btn-lg">Download</button>
 				</div>
 				<div class = "col-xs-12 col-s-12 col-md-6 text-left pic">
 					<img src="http://modmyi.com/images/anthony/nolocknotificationsbg.png"/>
