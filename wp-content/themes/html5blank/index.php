@@ -32,7 +32,7 @@
 	<div class="mast">
 		<div class="container">
 			<div class="row vertical-align">
-				<div class = "col-md-6 text-right description">
+				<div class = "col-xs-12 col-s-12 col-md-6 text-right description">
 					<h1>
 						Hi, we are <span>"AppName"</span>
 					</h1>
@@ -42,7 +42,7 @@
 					<button class="btn btn-lg">Learn more</button>
 					<button class="btn btn-lg">Wassap</button>
 				</div>
-				<div class = "col-md-6 text-left pic">
+				<div class = "col-xs-12 col-s-12 col-md-6 text-left pic">
 					<img src="http://modmyi.com/images/anthony/nolocknotificationsbg.png"/>
 				</div>
 			</div>
@@ -53,7 +53,7 @@
 <section id="welcome">
 	<div class="container">
 		<div class = "row">
-			<div class = "col-md-12 text-center topWelcome">
+			<div class = "col-xs-12 col-s-12 col-md-12 text-center topWelcome">
 				<h1>
 					Welcome to the <span>"App"</span> Website
 				</h1>
@@ -63,7 +63,7 @@
 			</div>
 		</div>
 		<div class = "row text-center">
-			<div class = "col-md-4 infoBox">
+			<div class = "col-xs-4 col-s-4 col-md-4 infoBox">
 				<i class="fa fa-coffee fa-5x"></i>
 				<h1>App Use</h1>
 				<p>
@@ -73,7 +73,7 @@
 					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
 				</p>
 			</div>
-			<div class = "col-md-4 infoBox">
+			<div class = "col-xs-4 col-s-4 col-md-4 infoBox">
 				<i class="fa fa-coffee fa-5x"></i>
 				<h1>App Use</h1>
 				<p>
@@ -83,7 +83,7 @@
 					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
 				</p>
 			</div>
-			<div class = "col-md-4 infoBox">
+			<div class = "col-xs-4 col-s-4 col-md-4 infoBox">
 				<i class="fa fa-coffee fa-5x"></i>
 				<h1>App Use</h1>
 				<p>
@@ -95,7 +95,7 @@
 			</div>
 		</div>
 		<div class = "row text-center">
-			<div class = "col-md-4 infoBox">
+			<div class = "col-xs-4 col-s-4 col-md-4 infoBox">
 				<i class="fa fa-coffee fa-5x"></i>
 				<h1>App Use</h1>
 				<p>
@@ -105,7 +105,7 @@
 					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
 				</p>
 			</div>
-			<div class = "col-md-4 infoBox">
+			<div class = "col-xs-4 col-s-4 col-md-4 infoBox">
 				<i class="fa fa-coffee fa-5x"></i>
 				<h1>App Use</h1>
 				<p>
@@ -115,7 +115,7 @@
 					<font color="#999999">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</font>
 				</p>
 			</div>
-			<div class = "col-md-4 infoBox">
+			<div class = "col-xs-4 col-s-4 col-md-4 infoBox">
 				<i class="fa fa-coffee fa-5x"></i>
 				<h1>App Use</h1>
 				<p>
@@ -132,7 +132,7 @@
 <section id = "available">
 	<div class="container">
 		<div class = "row">
-			<div class = "col-md-12 text-center topWelcome">
+			<div class = "col-xs-12 col-s-12 col-md-12 text-center topWelcome">
 				<h1>
 					Our <span>"App"</span> is available on!
 				</h1>
@@ -142,19 +142,19 @@
 			</div>
 		</div>
 		<div class = "row">
-			<div class = "col-md-2 text-center"></div>
-			<div class = "col-md-1 text-center"></div>
-			<div class = "col-md-2 text-center">
+			<div class = "col-xs-2 col-s-2 col-md-2 text-center"></div>
+			<div class = "col-xs-1 col-s-1 col-md-1 text-center"></div>
+			<div class = "col-xs-2 col-s-2 col-md-2 text-center">
 				<a href="#"><i class="fa fa-apple fa-5x"></i></a>
 			</div>
-			<div class = "col-md-2 text-center">
+			<div class = "col-xs-2 col-s-2 col-md-2 text-center">
 				<a href="#"><i class="fa fa-android fa-5x"></i></a>
 			</div>
-			<div class = "col-md-2 text-center">
+			<div class = "col-xs-2 col-s-2 col-md-2 text-center">
 				<a href="#"><i class="fa fa-windows fa-5x"></i></a>
 			</div>
-			<div class = "col-md-1 text-center"></div>
-			<div class = "col-md-2 text-center"></div>
+			<div class = "col-xs-1 col-s-1 col-md-1 text-center"></div>
+			<div class = "col-xs-2 col-s-2 col-md-2 text-center"></div>
 		</div>
 </section>
 <!-- 	<main role="main">
