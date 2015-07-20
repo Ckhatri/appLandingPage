@@ -77,7 +77,6 @@ body #mastHead .mast img {
 }
 body #mastHead .mast button {
   background-color: #b0c4b1;
-  color: black;
 }
 body #welcome {
   background-color: #ecebe4;
@@ -94,7 +93,7 @@ body #welcome h1 span {
 }
 body #welcome .infobox {
   background-color: white;
-  height: 40%;
+  height: auto;
   border: 10px solid #ecebe4;
 }
 body #welcome .infobox i {
