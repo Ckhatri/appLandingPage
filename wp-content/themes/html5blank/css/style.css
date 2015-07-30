@@ -13,6 +13,7 @@ body header .header {
   display: inline-block;
   padding-top: 12px;
   padding-bottom: 12px;
+  height: 100%;
 }
 body header .header img {
   border-radius: 25px;
